@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "repository": "https://github.com/YUMMI-X-REBOT/Zoya",
     "success_url": "https://t.me/ritik_raj496",
     "env": {
         "API_ID": {
